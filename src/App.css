@@ -1,0 +1,70 @@
+.App {
+  max-width: 750px;
+  margin: 30px auto;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  color: #2c3e50;
+}
+
+.App h1 {
+  text-align: center;
+  color: #1a202c;
+  font-size: 2rem;
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #edf2f7;
+}
+
+.ejercicio-seccion {
+  position: relative;
+  margin: 20px 0;
+  padding: 10px 0;
+}
+
+.etiqueta-ejercicio {
+  display: inline-block;
+  background-color: #e2e8f0;
+  color: #475569;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: 4px;
+  margin-bottom: 8px;
+  letter-spacing: 0.5px;
+}
+
+.tag-nota {
+  background-color: #fef3c7;
+  color: #d97706;
+  border: 1px solid #fde68a;
+}
+
+.nota-destacada {
+  background: #f0fdf4;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px dashed #86efac;
+}
+
+.App hr {
+  border: 0;
+  border-top: 1px solid #e2e8f0;
+  margin: 25px 0;
+}
+
+.App h2 {
+  font-size: 1.25rem;
+  color: #2b6cb0;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.App p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 6px 0;
+}
